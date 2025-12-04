@@ -1,4 +1,8 @@
-![Banner](./banner.png)
+![Banner](./github-header-banner.png)
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9F3BFF&center=true&vCenter=true&width=600&lines=I'm+the+DJ+Welcome+to+my+world;Full-Stack+Developer;Cybersecurity+%7C+Linux+Admin;Brand+Owner+R2R_tn" alt="Typing SVG" />
+</div>
+
 
 
 ## 👨‍💻 About Me
