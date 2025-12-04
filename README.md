@@ -8,7 +8,6 @@
 ## 👨‍💻 About Me
 
 🚀 Full-Stack Developer | Software Engineering Student @ ISET Charguia | Brand Owner **R2R_tn**  
-🐧 Linux Administrator | Ex Black Hat → now focused on ethical cybersecurity  
 ☁️ Oracle Cloud AI Certified | Former Professional Forex Trader  
 
 🔭 Currently working on: **Marchify** (multi-vendor marketplace) & **R2R_tn** e‑commerce  
