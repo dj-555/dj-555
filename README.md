@@ -1,8 +1,5 @@
-<!-- Animated banner -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:121212:1&height=220&section=header&text=Gaith%20Djedidi&fontSize=55&fontAlignY=35&fontColor=ffffff&animation=fadeIn&desc=Full-Stack%20Dev%20%7C%20Cybersecurity%20%7C%20Brand%20Owner%20R2R_tn&descAlignY=55&descAlign=50">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Gaith%20Djedidi&fontSize=55&fontAlignY=35&fontColor=ffffff&animation=fadeIn&desc=Full-Stack%20Dev%20%7C%20Cybersecurity%20%7C%20Brand%20Owner%20R2R_tn&descAlignY=55&descAlign=50">
-</picture>
+![Banner](./banner.png)
+
 
 ## 👨‍💻 About Me
 
@@ -67,6 +64,4 @@
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gaithdejdidi62004@gmail.com)
-[![Instagram](https://img.shields.io/badge/R2R_tn-E4405F?logo=instagram&logoColor=white)](YOUR_R2R_INSTAGRAM)
