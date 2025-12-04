@@ -1,19 +1,18 @@
+<!-- Animated banner -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:121212:1&height=220&section=header&text=Gaith%20Djedidi&fontSize=55&fontAlignY=35&fontColor=ffffff&animation=fadeIn&desc=Full-Stack%20Dev%20%7C%20Cybersecurity%20%7C%20Brand%20Owner%20R2R_tn&descAlignY=55&descAlign=50">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Gaith%20Djedidi&fontSize=55&fontAlignY=35&fontColor=ffffff&animation=fadeIn&desc=Full-Stack%20Dev%20%7C%20Cybersecurity%20%7C%20Brand%20Owner%20R2R_tn&descAlignY=55&descAlign=50">
+</picture>
 
-<!--
-**dj-555/dj-555** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
 
-Here are some ideas to get you started:
+🚀 Full-Stack Developer | Software Engineering Student @ ISET Charguia | Brand Owner **R2R_tn**  
+🐧 Linux Administrator | Ex Black Hat → now focused on ethical cybersecurity  
+☁️ Oracle Cloud AI Certified | Former Professional Forex Trader  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-![Banner](./github-header-banner.png)
+🔭 Currently working on: **Marchify** (multi-vendor marketplace) & **R2R_tn** e‑commerce  
+🌱 Currently learning: advanced cybersecurity, DevOps & scalable architectures  
+
 ## 🛠️ Tech Stack
 
 ### 👨‍💻 Languages
@@ -42,12 +41,13 @@ Here are some ideas to get you started:
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
 ![Oracle DB](https://img.shields.io/badge/Oracle_DB-F80000?logo=oracle&logoColor=white)
+![Prisma ORM](https://img.shields.io/badge/Prisma_ORM-2D3748?logo=prisma&logoColor=white)
 
 ### 🐧 Linux Administration
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white)
 
-### 🔒 Cybersecurity (Ex Black Hat)
+### 🔒 Cybersecurity
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-FF0000?logo=hackthebox&logoColor=white)
 ![Ethical_Hacking](https://img.shields.io/badge/Ethical_Hacking-000000?logo=tryhackme&logoColor=white)
 ![Falaa9a_TN](https://img.shields.io/badge/Falaa9a_TN-00FF00?logo=linux&logoColor=black)
@@ -56,4 +56,17 @@ Here are some ideas to get you started:
 ![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-FF0000?logo=oracle&logoColor=white)
 
 ### 🏆 Certifications
-![Oracle AI](https://img.shields.io/badge/Oracle_AI-F80000?logo=oracle&logoColor=white)
+![Oracle AI](https://img.shields.io/badge/Oracle_AI_Foundations-F80000?logo=oracle&logoColor=white)
+
+## 🚀 Projects
+
+- **Marchify** – Multi-vendor marketplace for local commerce (clients, vendors, delivery)
+- **R2R_tn** – E-commerce platform for my clothing brand “Reborn to Rise”
+- **MagriPlast B2B** – B2B order management and communication platform
+- **Blockchain Trading Simulator** – SOA-based simulated trading using blockchain
+
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gaithdejdidi62004@gmail.com)
+[![Instagram](https://img.shields.io/badge/R2R_tn-E4405F?logo=instagram&logoColor=white)](YOUR_R2R_INSTAGRAM)
