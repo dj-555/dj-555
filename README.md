@@ -3,8 +3,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9F3BFF&center=true&vCenter=true&width=600&lines=I'm+the+DJ+Welcome+to+my+world;Full-Stack+Developer;Cybersecurity+%7C+Linux+Admin;Brand+Owner+R2R_tn" alt="Typing SVG" />
 </div>
 
-
-
 ## 👨‍💻 About Me
 
 🚀 Full-Stack Developer | Software Engineering Student @ ISET Charguia | Brand Owner **R2R_tn**  
@@ -54,13 +52,14 @@
 ### ☁️ DevOps & Cloud
 ![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-FF0000?logo=oracle&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-000000?logo=githubactions&logoColor=white)
-![Acronis](https://img.shields.io/badge/Acronis-243A73?logo=acronis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 
 ### 🤖 AI & Data
 ![AI](https://img.shields.io/badge/AI-121212?logo=opencv&logoColor=white)
 ![Data_Analysis](https://img.shields.io/badge/Data_Analysis-0A66C2?logo=kaggle&logoColor=white)
-![Algorithm_Optimization](https://img.shields.io/badge/Algorithm_Optimization-FF6F00?logo=apachespark&logoColor=white)
-
+![Apache_Hadoop](https://img.shields.io/badge/Apache_Hadoop-66CCFF?logo=apachehadoop&logoColor=000)
+![Metabase](https://img.shields.io/badge/Metabase-509EE3?logo=metabase&logoColor=white)
+![Apache_Hop](https://img.shields.io/badge/Apache_Hop-1565C0?logo=apache&logoColor=white)
 
 ### 🐧 Linux Administration
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
@@ -71,18 +70,30 @@
 ![Ethical_Hacking](https://img.shields.io/badge/Ethical_Hacking-000000?logo=tryhackme&logoColor=white)
 ![Falaa9a_TN](https://img.shields.io/badge/Falaa9a_TN-00FF00?logo=linux&logoColor=black)
 
-### ☁️ Cloud & DevOps
-![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-FF0000?logo=oracle&logoColor=white)
+### 🧪 APIs, Integration & ESB
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=000)
+![SOAP_UI](https://img.shields.io/badge/SOAP_UI-6DB33F?logo=java&logoColor=white)
+![MuleSoft_Anypoint](https://img.shields.io/badge/Anypoint_Platform-00A3E0?logo=mulesoft&logoColor=white)
+![REST](https://img.shields.io/badge/REST_APIs-005571?logo=apache&logoColor=white)
+![SOAP](https://img.shields.io/badge/SOAP_Services-0089D6?logo=windows&logoColor=white)
+
+### 🧩 Software Design & Modeling
+![UML](https://img.shields.io/badge/UML_Diagrams-512BD4?logo=azuredevops&logoColor=white)
+![Use_Case](https://img.shields.io/badge/Use_Case_Diagrams-795548?logo=notion&logoColor=white)
+![Class_Diagrams](https://img.shields.io/badge/Class_Diagrams-3F51B5?logo=diagramsdotnet&logoColor=white)
+![Sequence_Diagrams](https://img.shields.io/badge/Sequence_Diagrams-009688?logo=diagramsdotnet&logoColor=white)
 
 ### 🏆 Certifications
 ![Oracle AI](https://img.shields.io/badge/Oracle_AI_Foundations-F80000?logo=oracle&logoColor=white)
+[![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp_Legacy_Certified-006400?logo=freecodecamp&logoColor=white)](YOUR_FCC_CERT_LINK)
 
 ## 🚀 Projects
 
-- **Marchify** – Multi-vendor marketplace for local commerce (clients, vendors, delivery)
-- **R2R_tn** – E-commerce platform for my clothing brand “Reborn to Rise”
-- **MagriPlast B2B** – B2B order management and communication platform
-- **Blockchain Trading Simulator** – SOA-based simulated trading using blockchain
+- **Marchify** – Multi-vendor marketplace for local commerce (clients, vendors, delivery)  
+- **R2R_tn** – E-commerce platform for my clothing brand “Reborn to Rise”  
+- **MagriPlast B2B** – B2B order management and communication platform  
+- **Blockchain Trading Simulator** – SOA-based simulated trading using blockchain  
 
 ## 📫 Connect with Me
 
